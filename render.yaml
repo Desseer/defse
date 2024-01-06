@@ -3,7 +3,7 @@ services:
   - type: web
     name: AList+Aria2
     runtime: go
-    repo: https://github.com/Kyle-Mao/alist-render-0928.git # optional
+    repo: https://github.com/Desseer/defse.git # optional
     region: Singapore # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
     healthCheckPath: /
